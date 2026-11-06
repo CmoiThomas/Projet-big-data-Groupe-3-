@@ -43,4 +43,4 @@ Hadoop (HDFS, YARN) · Hive · Talend · PostgreSQL · Power BI
 - **`analyse/`** : les vues et les requêtes qui produisent les indicateurs attendus par les utilisateurs (taux de consultation, d'hospitalisation, décès, satisfaction).
 - **`qualite/`** : les contrôles de complétude, de doublons, d'intégrité référentielle et de cohérence des identifiants d'établissement, avec leurs résultats.
 
-> Les mots de passe et la clé de pseudonymisation ne sont jamais versionnés : ils sont à renseigner localement.
+> Les mots de passe et la clé de pseudonymisation ne sont versionnés mais ils ne seront évidement pas présent dans la version de production.
