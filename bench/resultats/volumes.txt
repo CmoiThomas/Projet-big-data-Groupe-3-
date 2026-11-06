@@ -1,0 +1,15 @@
+== n0
+625.1 M  625.1 M  /chu/bench/n0
+          11           10          655497445 /chu/bench/n0
+== n1
+182.7 M  182.7 M  /chu/bench/n1
+          11           38          191610116 /chu/bench/n1
+== n3
+180.3 M  180.3 M  /chu/bench/n3
+          80          248          189067379 /chu/bench/n3
+== n2
+173.4 M  173.4 M  /chu/dwh
+          56           59          181812511 /chu/dwh
+== n4
+900.7 K  900.7 K  /chu/dwh/mesures
+           8            9             922340 /chu/dwh/mesures

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_6tZboNLgEfG1aPTsXiDMWQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_6tZbodLgEfG1aPTsXiDMWQ" comment="" name="load_date" prompt="load_date?" promptNeeded="false" type="id_String" value="2026-10-28"/>
+  <contextParameter xmi:id="_CCWxYNNtEfG1aPTsXiDMWQ" comment="" name="pseudo_key" prompt="pseudo_key?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:uZs9RlaLT6HVganxwDnfik8bfoiUHXq6i4pybuhFvg=="/>
+  <contextParameter xmi:id="_LHTzoNOBEfG1aPTsXiDMWQ" comment="" name="data_dir" prompt="data_dir?" promptNeeded="false" type="id_String" value="C:/Users/thoma/Documents/projet_big_data/DATA 2024/"/>
+  <contextParameter xmi:id="_xbYywNOmEfG1aPTsXiDMWQ" comment="" name="deces_annee_min" prompt="deces_annee_min?" promptNeeded="false" type="id_Integer" value="2015"/>
+  <contextParameter xmi:id="_1_j9ANOwEfG1aPTsXiDMWQ" comment="" name="cog_millesime" prompt="cog_millesime?" promptNeeded="false" type="id_String" value="2024"/>
+  <contextParameter xmi:id="_JjttUNbLEfGODKFKTx2VUA" comment="" name="seuil_classement" prompt="seuil_classement?" promptNeeded="false" type="id_Integer" value="30"/>
+</talendfile:ContextType>

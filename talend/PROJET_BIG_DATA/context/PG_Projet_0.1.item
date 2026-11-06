@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_IWeyYNLfEfG1aPTsXiDMWQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_IWeyYdLfEfG1aPTsXiDMWQ" comment="" name="PG_Projet_Password" prompt="PG_Projet_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:mBTHuOj9db54wSzkayhK5Px7TkSYLwhPewIVsRJ9ONP+PQSlk33XYcTM"/>
+  <contextParameter xmi:id="_IWeyYtLfEfG1aPTsXiDMWQ" comment="" name="PG_Projet_Port" prompt="PG_Projet_Port?" promptNeeded="false" type="id_String" value="5432"/>
+  <contextParameter xmi:id="_IWeyY9LfEfG1aPTsXiDMWQ" comment="" name="PG_Projet_AdditionalParams" prompt="PG_Projet_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_IWeyZNLfEfG1aPTsXiDMWQ" comment="" name="PG_Projet_Login" prompt="PG_Projet_Login?" promptNeeded="false" type="id_String" value="postgres"/>
+  <contextParameter xmi:id="_IWeyZdLfEfG1aPTsXiDMWQ" comment="" name="PG_Projet_Database" prompt="PG_Projet_Database?" promptNeeded="false" type="id_String" value="postgres"/>
+  <contextParameter xmi:id="_IWeyZtLfEfG1aPTsXiDMWQ" comment="" name="PG_Projet_Schema" prompt="PG_Projet_Schema?" promptNeeded="false" type="id_String" value="public"/>
+  <contextParameter xmi:id="_IWeyZ9LfEfG1aPTsXiDMWQ" comment="" name="PG_Projet_Server" prompt="PG_Projet_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+</talendfile:ContextType>

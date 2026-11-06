@@ -1,0 +1,25 @@
+package routines;
+
+import javax.crypto.Mac;
+import javax.crypto.spec.SecretKeySpec;
+
+public class pseudonymisation {
+
+    public static String hmac(String id, String key) {
+        if (id == null || id.trim().isEmpty()) {
+            return null;
+        }
+        try {
+            Mac mac = Mac.getInstance("HmacSHA256");
+            mac.init(new SecretKeySpec(key.getBytes("UTF-8"), "HmacSHA256"));
+            byte[] h = mac.doFinal(id.trim().getBytes("UTF-8"));
+            StringBuilder sb = new StringBuilder();
+            for (byte b : h) {
+                sb.append(String.format("%02x", b));
+            }
+            return sb.toString();
+        } catch (Exception e) {
+            throw new RuntimeException("Erreur de pseudonymisation", e);
+        }
+    }
+}

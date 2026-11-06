@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_oLEXoNLaEfG1aPTsXiDMWQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_oLEXodLaEfG1aPTsXiDMWQ" comment="" name="ClusterHadoop1_ResourceManagerScheduler" prompt="ClusterHadoop1_ResourceManagerScheduler?" promptNeeded="false" type="id_String" value="192.168.56.101:8030"/>
+  <contextParameter xmi:id="_oLEXotLaEfG1aPTsXiDMWQ" comment="" name="ClusterHadoop1_StagingDirectory" prompt="ClusterHadoop1_StagingDirectory?" promptNeeded="false" type="id_String" value="/user"/>
+  <contextParameter xmi:id="_oLEXo9LaEfG1aPTsXiDMWQ" comment="" name="ClusterHadoop1_NameNodeUri" prompt="ClusterHadoop1_NameNodeUri?" promptNeeded="false" type="id_String" value="hdfs://192.168.56.101:8020"/>
+  <contextParameter xmi:id="_oLEXpNLaEfG1aPTsXiDMWQ" comment="" name="ClusterHadoop1_hadoopConfSpecificJar" prompt="ClusterHadoop1_hadoopConfSpecificJar?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_oLEXpdLaEfG1aPTsXiDMWQ" comment="" name="ClusterHadoop1_JobHistory" prompt="ClusterHadoop1_JobHistory?" promptNeeded="false" type="id_String" value="0.0.0.0:10020"/>
+  <contextParameter xmi:id="_oLEXptLaEfG1aPTsXiDMWQ" comment="" name="ClusterHadoop1_ResourceManager" prompt="ClusterHadoop1_ResourceManager?" promptNeeded="false" type="id_String" value="192.168.56.101:8032"/>
+  <contextParameter xmi:id="_oLEXp9LaEfG1aPTsXiDMWQ" comment="" name="ClusterHadoop1_User" prompt="ClusterHadoop1_User?" promptNeeded="false" type="id_String" value="cloudera"/>
+</talendfile:ContextType>

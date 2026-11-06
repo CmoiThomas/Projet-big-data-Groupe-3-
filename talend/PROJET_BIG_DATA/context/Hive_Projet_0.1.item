@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_njmSgNLbEfG1aPTsXiDMWQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_njmSgdLbEfG1aPTsXiDMWQ" comment="" name="Hive_Projet_Password" prompt="Hive_Projet_Password?" promptNeeded="false" type="id_Password" value=""/>
+  <contextParameter xmi:id="_njmSgtLbEfG1aPTsXiDMWQ" comment="" name="Hive_Projet_Port" prompt="Hive_Projet_Port?" promptNeeded="false" type="id_String" value="10000"/>
+  <contextParameter xmi:id="_njmSg9LbEfG1aPTsXiDMWQ" comment="" name="Hive_Projet_Login" prompt="Hive_Projet_Login?" promptNeeded="false" type="id_String" value="cloudera"/>
+  <contextParameter xmi:id="_njmShNLbEfG1aPTsXiDMWQ" comment="" name="Hive_Projet_hiveAdditionalJDBCParameters" prompt="Hive_Projet_hiveAdditionalJDBCParameters?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_njmShdLbEfG1aPTsXiDMWQ" comment="" name="Hive_Projet_HiveMetastorePort" prompt="Hive_Projet_HiveMetastorePort?" promptNeeded="false" type="id_String" value="9083"/>
+  <contextParameter xmi:id="_njmShtLbEfG1aPTsXiDMWQ" comment="" name="Hive_Projet_Database" prompt="Hive_Projet_Database?" promptNeeded="false" type="id_String" value="chu_raw"/>
+  <contextParameter xmi:id="_njmSh9LbEfG1aPTsXiDMWQ" comment="" name="Hive_Projet_Server" prompt="Hive_Projet_Server?" promptNeeded="false" type="id_String" value="192.168.56.101"/>
+</talendfile:ContextType>
