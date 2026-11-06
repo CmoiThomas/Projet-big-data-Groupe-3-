@@ -1,0 +1,11 @@
+﻿# Données sources : trop volumineuses, non versionnées
+DATA 2024/
+*.csv
+*.zip
+
+# Résultats bruts du benchmark (on garde temps.csv et volumes.txt)
+bench/resultats/*_passage*.txt
+!bench/resultats/temps.csv
+
+DATA_2024/
+Workshop_2/
